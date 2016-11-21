@@ -1,0 +1,22 @@
+# maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# netbeans
+nb*
+
+# eclipse
+.settings/
+
+# intellij
+*.iml
+
+# others
+.vagrant
+.DS_Store
+*.log
+*.log.*
+
