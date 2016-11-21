@@ -12,6 +12,7 @@ nb*
 .settings/
 
 # intellij
+.idea/
 *.iml
 
 # others
