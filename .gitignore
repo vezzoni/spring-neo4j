@@ -20,4 +20,5 @@ nb*
 .DS_Store
 *.log
 *.log.*
+routes/
 
